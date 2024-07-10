@@ -50,7 +50,7 @@ margin-right: 40px;
 }
 main{
     background-image: url(/images/background.jpg);
-    background-color: #111;
+    background-color: black;
     background-size: cover;
     background-position: center center;
     padding: 193px 560px 193px 119px;
