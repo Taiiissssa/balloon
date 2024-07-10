@@ -1,0 +1,118 @@
+a {
+    text-decoration: none;
+        color: #111111;
+}
+ul, ol{
+    list-style-type: none;
+}
+body{
+    font-family: 'Popins', sans-serif;
+    color:#111111 ;
+    margin: 0;
+    padding: 0;
+}
+.header-cont{
+    width: 1440px;
+    display: flex;
+    height: auto;
+    
+}
+nav{ 
+    display: flex;
+    align-items: center;
+}
+.logo-img {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    margin-left: 40px;
+    margin-top: 17px;
+    align-items: center;
+}
+.links-header{
+    display: flex;
+    gap: 40px;
+}
+.buttons{
+display: flex;
+flex-shrink: 0;
+margin-left: auto;
+gap: 16px;
+margin-right: 40px;
+}
+.buttons .text {
+    border: 1px solid #111;
+    border-radius: 8px;
+    display: flex;
+    width: 98px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+}
+main{
+    background-image: url(/images/mesut-kaya-eOcyhe5-9sQ-unsplash\ 1.jpg);
+    background-color: #111111;
+    background-size: cover;
+    background-position: center center;
+    display: inline-flex;
+        padding: 193px 560px 193px 119px;
+        align-items: center;
+}
+.main-box{
+    display: flex;
+        padding: 112px 64px;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+        height: auto;
+        border-radius: 24px;
+}
+.heading-text{
+    color: #FFF;
+        font-family: Poppins;
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 64px;
+}
+.main-text{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    width: 633px;
+}
+.sign-up{
+    display: flex;
+    width: 269px;
+    height: 64px;
+    padding: 15px 50px 16px 51px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 32px;
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    background: #00C0A6;
+}
+.google{
+    display: flex;
+        width: 144px;
+        height: 41.6px;
+        transform: rotate(0deg);
+        justify-content: center;
+        align-items: center;
+}
+.appstore {
+    display: flex;
+        width: 180px;
+        height: 52px;
+        justify-content: center;
+        align-items: center;
+}
