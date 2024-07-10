@@ -49,10 +49,9 @@ margin-right: 40px;
     align-items: center;
 }
 main{
-    background-image: url(/images/mesut-kaya-eOcyhe5-9sQ-unsplash\ 1.jpg);
+    background-image: url(/images/background.jpg);
     background-size: cover;
     background-position: center center;
-    display: flex;
     padding: 193px 560px 193px 119px;
     align-items: center;
 }
