@@ -12,7 +12,6 @@ body{
     padding: 0;
 }
 .header-cont{
-    width: 1440px;
     display: flex;
     height: auto;
     
@@ -53,9 +52,9 @@ main{
     background-image: url(/images/mesut-kaya-eOcyhe5-9sQ-unsplash\ 1.jpg);
     background-size: cover;
     background-position: center center;
-    display: inline-flex;
-        padding: 193px 560px 193px 119px;
-        align-items: center;
+    display: flex;
+    padding: 193px 560px 193px 119px;
+    align-items: center;
 }
 .main-box{
     display: flex;
@@ -104,7 +103,6 @@ main{
     display: flex;
         width: 144px;
         height: 41.6px;
-        transform: rotate(0deg);
         justify-content: center;
         align-items: center;
 }
@@ -112,6 +110,5 @@ main{
     display: flex;
         width: 180px;
         height: 52px;
-        justify-content: center;
         align-items: center;
 }
