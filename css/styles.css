@@ -49,7 +49,7 @@ margin-right: 40px;
     align-items: center;
 }
 main{
-    background-image: url("../images/background.jpg");
+    background-image: url(../images/background.jpg);
     background-color: black;
     background-size: cover;
     background-position: center center;
